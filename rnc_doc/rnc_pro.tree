@@ -4,7 +4,7 @@
 
 <instance-profile id="rnc_pro"
                   name="React Native Console Pro"
-                  start-page="home.topic">
+                  start-page="Introduction.md">
 
     <toc-element topic="Introduction.md"/>
     <toc-element topic="getting_started.md"/>
