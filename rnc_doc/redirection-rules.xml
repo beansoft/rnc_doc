@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/redirection-rules.dtd">
+<rules>
+    <rule id="20feb83e">
+        <description>Created after removal of "Empty MD Topic" from React Native Console Pro</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="7afc4142">
+        <description>Created after removal of "Tutorial" from React Native Console Pro</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="7fc90877">
+        <description>Created after removal of "About This Guide" from React Native Console Pro</description>
+        <accepts>about.html</accepts>
+    </rule>
+    <rule id="7302e5f8">
+        <description>Created after removal of "关于 React Native Console" from React Native Console Pro</description>
+        <accepts>About Sample Product.html</accepts>
+    </rule>
+    <rule id="1fc7f5b4">
+        <description>Created after removal of "IntelliJ Platform SDK Documentation" from React Native Console Pro
+        </description>
+        <accepts>README.html</accepts>
+    </rule>
+    <rule id="187082f">
+        <description>Created after removal of "购买插件" from React Native Console Pro</description>
+        <accepts>buy.html</accepts>
+    </rule>
+    <rule id="5a0d97b2">
+        <description>Created after removal of "Contributing to the IntelliJ Platform SDK" from React Native Console
+            Pro
+        </description>
+        <accepts>sdk_style.html</accepts>
+    </rule>
+</rules>

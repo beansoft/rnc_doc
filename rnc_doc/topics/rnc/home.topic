@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="React Native Console Docs"
+       id="home" help-id="tutorial">
+    <section-starting-page>
+        <title>React Native Console Docs</title>
+        <description>Some docs test</description>
+
+    <spotlight>
+        <a href="features.md" type="academy" description="First topic description.">Features</a>
+        <a href="getting_started.md" type="install" description="Second topic description.">Getting Started</a>
+    </spotlight>
+
+    <primary>
+        <title>First steps</title>
+        <a href="pricing.md" description="First topic description.">Pricing</a>
+        <a href="buy.md" description="Second topic description.">Buy</a>
+        ...
+    </primary>
+
+    <secondary>
+        <title>Users</title>
+<!--        <a href="some_topic.xml" description="First topic description.">Some topic</a>-->
+<!--        <a href="some_other_topic.xml" description="Second topic description.">Some other topic</a>-->
+    </secondary>
+
+
+    <misc>
+        <cards narrow="false">
+            <title>What's new</title>
+            <a href="RNC_What's-New.md" type="computer" summary="summary" description="First topic description.">Video Tutorial</a>
+<!--            <a href="some_other_topic.xml" description="Second topic description.">Some other topic</a>-->
+        </cards>
+
+        <links narrow="true">
+            <group>
+                <title>Frameworks</title>
+<!--                <a href="some_topic.xml" description="First topic description.">Some topic</a>-->
+<!--                <a href="some_other_topic.xml" description="Second topic description.">Some other topic</a>-->
+            </group>
+        </links>
+    </misc>
+</section-starting-page>
+</topic>

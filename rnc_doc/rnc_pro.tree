@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
+
+<instance-profile id="rnc_pro"
+                  name="React Native Console Pro"
+                  start-page="home.topic">
+
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="home.topic"/>
+    <toc-element topic="pricing.md"/>
+    <toc-element topic="freeOffer.md"/>
+    <toc-element topic="Users.md"/>
+    <toc-element topic="RNC_What's-New.md"/>
+    <toc-element topic="features.md"/>
+    <toc-element topic="getting_started.md"/>
+    <toc-element topic="Know-Issues.md"/>
+    <toc-element toc-title="中文文档">
+    </toc-element>
+    <toc-element topic="welcome.md"/>
+<!--    <toc-element topic="How-to.md">-->
+<!--        <toc-element topic="intellij_platform.md"/>-->
+<!--        <include from="notes" element-id="tabs"/>-->
+<!--    </toc-element>-->
+    <toc-element toc-title="Migration Guide from 0.x to 1.x" href="https://lp.jetbrains.com/gradle-intellij-plugin/"/>
+</instance-profile>

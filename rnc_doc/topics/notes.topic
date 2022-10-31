@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+
+<topic xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       title="About Notes"
+       id="notes" xmlns="">
+
+    Let's see what we have to say about Notes
+    <code-block lang="java">
+        public class Main() {
+        }
+    </code-block>
+
+    <note>
+        hello
+    </note>
+
+    <warning>warning</warning>
+
+    <a href="Tabs.md"></a>
+
+
+    <tabs> <tab title="Foo">Content of tab Foo</tab> <tab title="Bar">Content of tab Bar</tab> </tabs>
+</topic>
