@@ -32,4 +32,8 @@
         </description>
         <accepts>sdk_style.html</accepts>
     </rule>
+    <rule id="3cc9dee1">
+        <description>Created after removal of "React Native Console" from React Native Console Pro</description>
+        <accepts>welcome.html</accepts>
+    </rule>
 </rules>

@@ -1,4 +1,5 @@
 [//]: # (title: Install React Native Console)
+
 # Install React Native Console
 
 ## Prerequisites
@@ -7,25 +8,18 @@
 
 Install an IDE if you don't have one from [Jetbrains](https://www.jetbrains.com/?from=ReactNativeConsole)
 or [Android Studio](https://developer.android.com/sdk/installing/studio.html). RN Console supports all major Jetbrains
-IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMine and GoLand etc.
 
-Press <control>Alt</continue>
+IDEs include IDEA CE, IDEA Ultimate, WebStorm, Android Studio, PhpStorm, RubyMine and GoLand and so on.
 
-press <shortcut>Alt+Insert</shortcut>
 
-<tip>Tip</tip>
-
-<note>The difference in these IDEs is that only paid IDE supports advanced JavaScript editor and in-IDE debugger.</note>
-
-> The difference in these IDEs is that only paid IDE supports advanced JavaScript editor and in-IDE debugger. More info
-
-> This is a warning
+> The difference in these IDEs is that only paid IDE supports advanced JavaScript editor and in-IDE debugger, please see: [Developing mobile apps with React Native in WebStorm](https://blog.jetbrains.com/webstorm/2016/12/developing-mobile-apps-with-react-native-in-webstorm/).
+> For more info about WebStorm and React Native, please visit: <a href="https://www.jetbrains.com/help/webstorm/react-native.html">https://www.jetbrains.com/help/webstorm/react-native.html</a>.
 >
-{style="warning"}
+{style="note"}
 
 2. Node.js
 
-   If you are only going to dev apps with [Expo](https://expo.dev/)  , then you only need
+   If you are only going to dev apps with [Expo](https://expo.dev/), then you only need to
    have [Node 14 LTS](https://nodejs.org/en/download/) or greater installed, you can use npm to install the Expo CLI
    command line utility: `npm install -g expo-cli` .
 
@@ -39,8 +33,11 @@ press <shortcut>Alt+Insert</shortcut>
    > Mac M1 architecture is not directly compatible with Cocoapods. If you encounter issues when installing pods, you
    can solve it by running:
    >
-    - `sudo arch -x86_64 gem install ffi`
-    - `arch -x86_64 pod install`
+   >
+   > ```shell
+    > sudo arch -x86_64 gem install ffi
+    > arch -x86_64 pod install
+    > ```
    >
    > These commands install the `ffi` package, to load dynamically-linked libraries and let you run the `pod install`
    properly, and runs `pod install` with the proper architecture.
@@ -51,14 +48,14 @@ press <shortcut>Alt+Insert</shortcut>
    Genymotion Virtual Devices is an Android emulator. RN Console integrates the support for Genymotion Desktop with all
    versions of Android Studio, IDEA or WebStorm since 2020.3.
 
-   > Genymotion need an account to work, using it please following the official
+   > Genymotion needs an account to work, using it please follow the official
    guide: https://docs.genymotion.com/desktop/.
 
 5. Optional: Download and install [React Native Debugger](https://github.com/jhen0409/react-native-debugger/releases)
 
-   React Native Debugger is an free and opensource standalone app based on official debugger of React Native, and
+   React Native Debugger is a free and opensource standalone app based on official debugger of React Native, and
    includes React Inspector / Redux DevTools, allow you to debug your React Native app without using WebStorm or IDEA
-   Ultimate. More info please visit: https://github.com/jhen0409/react-native-debugger/tree/master/docs .
+   Ultimate. More info, please visit: https://github.com/jhen0409/react-native-debugger/tree/master/docs .
 
 [//]: # "   ### Core Features"
 
@@ -119,14 +116,15 @@ RN Console relies on top of various tools to work properly.
   Have the [`adb`](https://developer.android.com/studio/command-line/adb) utility available in your `PATH` if you're
   developing Android applications;
 
-  To start an emulator in WebStorm / IDEA throught RN Console, launch Android Studio and choose menu `Tools > AVD Manager` to create at lease 
+  To start an emulator in WebStorm / IDEA throught RN Console, launch Android Studio and choose
+  menu `Tools > AVD Manager` to create at lease
   one Android virtual device. This is a one-time task to do, after that you can close the Android Studio.
 
   > On Mac or Linux platform:
   >
-  > If can't find adb, try this shell command:
+  > If you can't find adb, try this shell command:
   > `sudo ln -s ~/Android/Sdk/platform-tools/adb /usr/bin/adb`
-  > If can't find avd list, try this shell command(please ensure your emulator path):
+  > If you can't find avd list, try this shell command(please ensure your emulator path):
   > `sudo ln -s ~/Library/Android/sdk/emulator/emulator /usr/bin/emulator`
   > More info please ref this issue:
   > https://github.com/beansoft/react-native-console/issues/17
@@ -137,6 +135,7 @@ RN Console relies on top of various tools to work properly.
 
   Have the [`adb`](https://developer.android.com/studio/command-line/adb) utility available in your `PATH` if you're
   developing Android applications;
+
 ## Install plugin from IDE
 
 1. Open your IDE and press Ctrl+Alt+S to open the IDE settings.
@@ -145,14 +144,13 @@ RN Console relies on top of various tools to work properly.
 
 3. Click **Install** to install the plugin and restart your IDE if prompted.
 
-[//]: # (![]&#40;rnconsole-install-dark.png&#41;)
+![](rnconsole-install-dark.png){thumbnail="true" thumbnail-same-file="true" width="1942" height="606"}
 
-<img alt="Rnconsole install dark" style="inline" title="Rnconsole install dark" thumbnail="true"
-                                                        src="rnconsole-install-dark.png" class="" width="1942" height="606"/>
+
 
 ## Download and install plugin from disk
 
-1. Download latest plugin version from https://plugins.jetbrains.com/plugin/9564-react-native-console/versions
+1. Download the latest plugin version from https://plugins.jetbrains.com/plugin/9564-react-native-console/versions
 
 2. Open your IDE and press Ctrl+Alt+S to open the IDE settings.
 
@@ -162,8 +160,3 @@ RN Console relies on top of various tools to work properly.
 
 5. Click **OK** to apply the changes and restart your IDE if prompted.
 
-## Create your first Expo project
-
-## 	Android Studio Users
-
-From Welcome screen, click the `More Actions` drop down menu, and choose `New React Native Project...`

@@ -1,5 +1,4 @@
-[//]: # (title: Features)
-
+[//]: # (title: Feature Comparison )
 The comparison is between the latest release of [React Native Console](https://plugins.jetbrains.com/plugin/9564-react-native-console/)
 and the [React Native Console Free](https://plugins.jetbrains.com/plugin/15016-react-native-console-free) plugin.
 
