@@ -55,7 +55,7 @@ Free licenses have to be renewed annually.
 If you use a free license, then we would appreciate your review on
 the [JetBrains Marketplace page](https://plugins.jetbrains.com/plugin/9564-react-native-console/reviews).
 
-More info about [Free Offer and How to Activate the plugin](freeOffer)
+More info about [Free Offer and How to Activate the plugin](free_offer.md)
 
 ## Perpetual Fallback License
 
