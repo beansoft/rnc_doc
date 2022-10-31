@@ -12,6 +12,7 @@ If you still have issues, I can use another way to generate a coupon code, mail 
 A screenshot shows what will be displayed when you meet the offer:
 
 此截图显示了符合条件时的显示内容:
+
 ![free_discount](https://plugins.jetbrains.com/files/9564/985-page/4d4b40ae-da22-47b0-9ade-ec90d8efc3da){thumbnail="true" thumbnail-same-file="true"}
 
 Finally, please following this document to activate the plugin:

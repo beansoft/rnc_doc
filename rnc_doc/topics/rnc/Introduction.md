@@ -48,9 +48,11 @@ Clear to see the different logs for React Native android log.
 
 ![](android-logviewer.png){thumbnail="true" thumbnail-same-file="true"}
 
-Design
-: ## Power meets simplify.
+
+## Power meets simplify
+**Design**
+
 Explore simplified nearly zero-config design. Manage all your React Native and package.json commands with
 increased productivity. Work across multiple commands with tabs. Advanced JSX outline, enhanced JSX and package.json editor.
-
+![](rn-light.png){thumbnail="true" thumbnail-same-file="true"}
 
