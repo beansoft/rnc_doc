@@ -138,25 +138,19 @@ RN Console relies on top of various tools to work properly.
 
 ## Install plugin from IDE
 
-1. Open your IDE and press Ctrl+Alt+S to open the IDE settings.
+1. Open your IDE and press <control>Ctrl+Alt+S</control> to open the IDE settings.
 
 2. Select **Plugins**, click the Marketplace tab and enter: `React Native Console`
 
 3. Click **Install** to install the plugin and restart your IDE if prompted.
 
-![](rnconsole-install-dark.png){thumbnail="true" thumbnail-same-file="true" width="1942" height="606"}
-
+![](rnconsole-install.png){thumbnail="true" thumbnail-same-file="true" width="1942" height="606"}
 
 
 ## Download and install plugin from disk
 
-1. Download the latest plugin version from https://plugins.jetbrains.com/plugin/9564-react-native-console/versions
-
-2. Open your IDE and press Ctrl+Alt+S to open the IDE settings.
-
-3. Select **Plugins**, click  ![](gearPlain_dark.svg) and then click **Install Plugin from Disk**.
-
-4. Select the plugin archive file and click **OK**.
-
-5. Click **OK** to apply the changes and restart your IDE if prompted.
-
+1. Go to the plugin page at [https://plugins.jetbrains.com/plugin/9564-react-native-console/versions](https://plugins.jetbrains.com/plugin/9564-react-native-console/versions).
+2. Click <control>Get</control> and download a ZIP archive.
+3. Open <path> Settings/Preferences | Plugins </path>.
+4. Click ![Settings](gearPlain.svg)button in the top-right corner and then select <control>Install Plugin from Disk…</control>.
+5. Select the archive and click <control>OK</control>.
