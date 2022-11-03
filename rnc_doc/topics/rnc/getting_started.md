@@ -134,18 +134,20 @@ RN Console relies on top of various tools to work properly.
   Have the [`adb`](https://developer.android.com/studio/command-line/adb) utility available in your `PATH` if you're
   developing Android applications;
 
-## Install plugin from IDE
+[//]: # (## Install plugin from IDE)
 
-1. Open your IDE and press <control>Ctrl+Alt+S</control> to open the IDE settings.
+[//]: # ()
+[//]: # (1. Open your IDE and press <control>Ctrl+Alt+S</control> to open the IDE settings.)
 
-2. Select **Plugins**, click the Marketplace tab and enter: `React Native Console`
+[//]: # ()
+[//]: # (2. Select **Plugins**, click the Marketplace tab and enter: `React Native Console`)
 
-3. Click **Install** to install the plugin and restart your IDE if prompted.
+[//]: # ()
+[//]: # (3. Click **Install** to install the plugin and restart your IDE if prompted.)
 
-![](rnconsole-install.png){thumbnail="true" thumbnail-same-file="true" width="1942" height="606"}
 
 
-### To install the RN Console plugin in IDE
+## Install the RN Console plugin in IDE
 
 1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="$ShowSettings" /> , select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Marketplace</ui-path> tab.
@@ -153,6 +155,7 @@ RN Console relies on top of various tools to work properly.
 4. Click <control>Install</control>.
 5. Click <control>OK</control>  in the <control>Settings</control>  dialog to apply the changes, and restart <control>IDE</control>  if prompted.
 
+![](rnconsole-install.png){thumbnail="true" thumbnail-same-file="true" width="1942" height="606"}
 
 ## Download and install plugin from disk
 
@@ -162,7 +165,7 @@ RN Console relies on top of various tools to work properly.
 4. Click ![Settings](gearPlain.svg)button in the top-right corner and then select <control>Install Plugin from Disk…</control>.
 5. Select the archive and click <control>OK</control>.
 
-### To update an installed RN Console plugin
+## Update an installed RN Console plugin
 
 1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="$ShowSettings" /> , select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Updates</ui-path> tab.
@@ -170,7 +173,7 @@ RN Console relies on top of various tools to work properly.
 4. Click <control>Update</control>.
 5. Click <control>OK</control> in the <control>Settings</control>  dialog to apply the changes, and restart <control>IDE</control>  if prompted.
 
-### To uninstall the RN Console plugin
+## Uninstall the RN Console plugin
 
 > You can always disable the RN Console plugin by clearing the checkbox to the right of its name.
 
