@@ -1,5 +1,7 @@
 [//]: # (title:  Introduction)
 
+[//]: # (<excerpt>Introduction for the React Native Console plugin.</excerpt>)
+
 ![](jsx_16.svg){width="64"}
 ## React Native Console
 
@@ -58,7 +60,8 @@ increased productivity. Work across multiple commands with tabs. Advanced JSX ou
 
 ## Portable — Works in Most JetBrains IDEs
 WebStorm, IntelliJ IDEA, Android Studio, GoLand, CLion, PhpStorm, RubyMine, PyCharm, Rider, AppCode.
- ![](windows.svg) ![](linux.svg) ![](macos.svg)
+ ![](windows.svg){width="32"} ![](linux.svg){width="32"}
+![](macos.svg){width="32"}
 
 ![](rnconsole-android.png){thumbnail="true" thumbnail-same-file="true"}
 

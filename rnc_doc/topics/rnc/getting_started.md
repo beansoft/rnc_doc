@@ -177,7 +177,7 @@ RN Console relies on top of various tools to work properly.
 
 > You can always disable the RN Console plugin by clearing the checkbox to the right of its name.
 
-1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="$ShowSettings" /> , select <ui-path>Plugins</ui-path>.
+1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="ShowSettings" /> , select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Installed</ui-path> tab.
 3. On the <ui-path>Installed</ui-path> tab, search for **RN Console**.
 4. Right-click the **RN Console** plugin and select <control>Uninstall</control>.

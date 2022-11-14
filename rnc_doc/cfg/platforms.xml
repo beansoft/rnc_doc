@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <platforms>
     <platform id="primary">
+        <src>keymap-sd.xml</src>
+        <use-keymaps>primary_Windows</use-keymaps>
+    </platform>
+    <platform id="secondary">
         <use-keymaps>
-            primary_Windows
+            secondary_macOS
         </use-keymaps>
-        <use-keymaps>
-            primary_macOS
-        </use-keymaps>
-        <src>keymap.xml</src>
+        <src>keymap-sd.xml</src>
     </platform>
 </platforms>

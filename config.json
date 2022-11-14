@@ -1,0 +1,66 @@
+{
+  "webmaster": "beansoft@126.com",
+  "keymaps": {
+    "secondary": {
+      "default": "secondary_macos",
+      "values": [
+        {
+          "id": "secondary_macos",
+          "name": "macOS"
+        }
+      ]
+    },
+    "primary": {
+      "default": "primary_windows",
+      "values": [
+        {
+          "id": "primary_windows",
+          "name": "Windows"
+        }
+      ]
+    }
+  },
+  "feedbackSupport": "null",
+  "feedbackWidget": false,
+  "downloadPage": "https://plugins.jetbrains.com/plugin/9564-react-native-console",
+  "logoUrl": "/img/rnc/jsx_16.svg",
+  "productName": "React Native Console Pro",
+  "feedbackUrl": "https://github.com/beansoft/react-native-console/issues",
+  "useSideblocks": true,
+  "productVersion": "master",
+  "stage": "release",
+  "downloadTitle": "React Native Console",
+  "showDownloadButton": true,
+  "searchMaxHits": 75,
+  "footer": {
+    "poweredBy": true,
+    "socials": {
+      "blog": {
+        "title": "",
+        "url": "https://blog.jetbrains.com/platform/"
+      },
+      "email": {
+        "title": "Email",
+        "url": "beansoft@126.com"
+      },
+      "twitter": {
+        "title": "",
+        "url": "https://twitter.com/JBPlatform/"
+      },
+      "bilibili": {
+        "title": "IDEA插件社区(B站)",
+        "url": "https://space.bilibili.com/297314170"
+      }
+    },
+    "links": [
+      {
+        "title": "JetBrains Platform Slack",
+        "url": "https://plugins.jetbrains.com/slack/"
+      },
+      {
+        "title": "IntelliJ Platform Plugin SDK(English)",
+        "url": "https://plugins.jetbrains.com/docs/intellij/"
+      }
+    ]
+  }
+}

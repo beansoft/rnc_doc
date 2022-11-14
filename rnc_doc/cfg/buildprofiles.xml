@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buildprofiles xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <download-page>https://plugins.jetbrains.com/plugin/9564-react-native-console</download-page>
+        <config-download-title>React Native Console</config-download-title>
+        <config-showDownloadButton>true</config-showDownloadButton>
+        <config-feedback-enabled>false</config-feedback-enabled>
+        <config-feedback-widget>false</config-feedback-widget>
+        <config-feedback-support>null</config-feedback-support>
+        <config-feedback-url>https://github.com/beansoft/react-native-console/issues</config-feedback-url>
+        <config-webmaster>beansoft@126.com</config-webmaster>
+        <config-sideblocks>true</config-sideblocks>
+        <primary-color>strawberry</primary-color>
+        <color-preset>vivid</color-preset>
+        <header-logo>jsx_16.svg</header-logo>
+<!--        <config-versions-switcher>-->
+<!--            https://raw.githubusercontent.com/lananovikova10/versions-json/main/help-versions.json-->
+<!--        </config-versions-switcher>-->
+        <custom-video-cover>video-cover.png</custom-video-cover>
+    </variables>
+    <build-profile instance="rnc_pro"/>
+    <footer>
+<!--        <social type="twitter" href="https://twitter.com/JBPlatform/"/>-->
+<!--        <social type="blog" href="https://blog.jetbrains.com/platform/"/>-->
+<!--        <social type="youtube" href="https://www.youtube.com/playlist?list=PLQ176FUIyIUZRWGCFY7G9V5zaM00THymY"/>-->
+        <social type="bilibili" href="https://space.bilibili.com/297314170"/>
+        <social type="email" href="mailto:beansoft@126.com"></social>
+
+        <link href="https://plugins.jetbrains.com/slack/">JetBrains Platform Slack</link>
+    </footer>
+</buildprofiles>

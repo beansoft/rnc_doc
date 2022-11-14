@@ -36,4 +36,8 @@
         <description>Created after removal of "React Native Console" from React Native Console Pro</description>
         <accepts>welcome.html</accepts>
     </rule>
+    <rule id="5854bb9c">
+        <description>Created after removal of "Image Demo" from React Native Console Pro</description>
+        <accepts>ImageDemo.html</accepts>
+    </rule>
 </rules>
