@@ -130,13 +130,14 @@ Example
             </tr>
 </table>
 
-## 标签页 + Markdown
+## 标签页 + 代码块MD
+
 <tabs group="languages">
 <tab title="Kotlin" group-key="kotlin">
 
 ```kotlin
 plugins {
-    id("org.jetbrains.intellij") version "..."
+  id("org.jetbrains.intellij") version "..."
 }
 ```
 
