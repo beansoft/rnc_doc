@@ -149,7 +149,7 @@ RN Console relies on top of various tools to work properly.
 
 ## Install the RN Console plugin in IDE
 
-1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="$ShowSettings" /> , select <ui-path>Plugins</ui-path>.
+1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="ShowSettings" /> , select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Marketplace</ui-path> tab.
 3. In the dialog that opens, search for **RN Console**.
 4. Click <control>Install</control>.
@@ -167,7 +167,7 @@ RN Console relies on top of various tools to work properly.
 
 ## Update an installed RN Console plugin
 
-1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="$ShowSettings" /> , select <ui-path>Plugins</ui-path>.
+1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="ShowSettings" /> , select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Updates</ui-path> tab.
 3. Check if the RN Console plugin requires an update.
 4. Click <control>Update</control>.

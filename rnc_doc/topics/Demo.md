@@ -2,7 +2,7 @@
 [//]: # (<excerpt>标签页等功能演示.</excerpt>)
 
 
-## 常用代码片段
+## 代码折叠
 ```java
 class Main {
     public static void main(String[] args) {
@@ -131,12 +131,6 @@ Example
 </table>
 
 ## 标签页 + Markdown
-<tabs>
-    <code lang="java">Java code</code>
-    <code lang="groovy">Groovy code</code>
-</tabs>
-
-
 <tabs group="languages">
 <tab title="Kotlin" group-key="kotlin">
 
