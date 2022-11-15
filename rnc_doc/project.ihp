@@ -5,6 +5,7 @@
     <categories src="c.list"/>
     <topics dir="topics"/>
     <!-- Must specify the web-path, otherwise can't publish images -->
+    For marketplace setup, image's path MUST be `img/`
     <images dir="images" web-path="/img/rnc/" version="master"/>
     <vars src="v.list"/>
 

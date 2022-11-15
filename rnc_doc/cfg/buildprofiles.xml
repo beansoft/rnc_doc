@@ -12,7 +12,9 @@
         <config-feedback-url>https://github.com/beansoft/react-native-console/issues</config-feedback-url>
         <config-webmaster>beansoft@126.com</config-webmaster>
         <config-sideblocks>true</config-sideblocks>
-        <primary-color>strawberry</primary-color>
+<!--        <primary-color>strawberry</primary-color>-->
+        <primary-color>ruby</primary-color>
+<!--        <primary-color>aqua</primary-color>-->
         <color-preset>vivid</color-preset>
         <header-logo>jsx_16.svg</header-logo>
 <!--        <config-versions-switcher>-->
