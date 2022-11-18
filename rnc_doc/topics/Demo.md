@@ -13,11 +13,10 @@ class Main {
     }
 }
 ```
-{collapsible="true" default-state="collapsed" collapsed-title="Java"}
+
 
 
 ```java
 class Main {
 }
 ```
-{collapsible="true" default-state="expanded" collapsed-title="Title to display when a block is collapsed"}
