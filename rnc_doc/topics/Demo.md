@@ -20,3 +20,9 @@ class Main {
 class Main {
 }
 ```
+
+
+```shell
+sudo tar -xzf the-package-*.tar.gz -C /opt
+```
+{prompt="$"}
