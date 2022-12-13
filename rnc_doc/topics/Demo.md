@@ -13,6 +13,7 @@ class Main {
     }
 }
 ```
+{collapsible="true" default-state="collapsed" collapsed-title="Title to display when a block is collapsed"}
 
 
 
