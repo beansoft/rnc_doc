@@ -8,6 +8,6 @@
     For marketplace setup, image's path MUST be `img/`
     <images dir="images" web-path="img/" version="master"/>
     <vars src="v.list"/>
-
+    <snippets src="codeSnippets"/>
     <instance src="rnc_pro.tree" version="master"/>
 </ihp>
