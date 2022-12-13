@@ -87,7 +87,7 @@ RN Console relies on top of various tools to work properly.
 
 - Expo
 
-  Only Node.js is required, bring up a terminal and enter following command to check: `npm`
+Only Node.js is required, bring up a terminal and enter following command to check: `npm`
 
   The output should be something like this:
 
@@ -105,6 +105,7 @@ RN Console relies on top of various tools to work properly.
   npm help <term>    search for help on <term> (in a browser)
   npm help npm       more involved overview (in a browser)
   ```
+{collapsible="true" default-state="collapsed"}
 
 - Android Development
 
