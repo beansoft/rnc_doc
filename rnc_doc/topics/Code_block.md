@@ -28,6 +28,12 @@ class Main {
 &#96;&#96;&#96;
 ```
 
+<code-block><![CDATA```kotlin
+    ```
+    {src="newTest.kt"}[
+    
+]]></code-block>
+
 </td>
 <td>
 
