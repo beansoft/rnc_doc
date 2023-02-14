@@ -21,14 +21,20 @@
 <!--            https://raw.githubusercontent.com/lananovikova10/versions-json/main/help-versions.json-->
 <!--        </config-versions-switcher>-->
         <custom-video-cover>video-cover.png</custom-video-cover>
+
+        <config-search-scopes-provider>https://www.jetbrains.com/search/json/</config-search-scopes-provider>
+        <config-algolia-index>prod_REACTNATIVECONSOLE_HELP</config-algolia-index>
+        <config-algolia-id>JWPLKSKZVF</config-algolia-id>
+        <config-algolia-api-key>bce9ba6ce7419efe813d671244d3bf6a</config-algolia-api-key>
     </variables>
     <build-profile instance="rnc_pro"/>
     <footer>
 <!--        <social type="twitter" href="https://twitter.com/JBPlatform/"/>-->
 <!--        <social type="blog" href="https://blog.jetbrains.com/platform/"/>-->
 <!--        <social type="youtube" href="https://www.youtube.com/playlist?list=PLQ176FUIyIUZRWGCFY7G9V5zaM00THymY"/>-->
+        <social type="youtube" href="https://youtu.be/1uhrSAMzo3I"/>
         <social type="bilibili" href="https://space.bilibili.com/297314170"/>
-        <social type="email" href="mailto:beansoft@126.com"></social>
+        <social type="email" href="mailto:beansoft@126.com"/>
 
         <link href="https://plugins.jetbrains.com/slack/">JetBrains Platform Slack</link>
     </footer>
