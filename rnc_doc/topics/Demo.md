@@ -1,5 +1,14 @@
 [//]: # (title: Demo)
 
+<tldr>
+
+**Code**: [`AllIcons`](https://plugins.jetbrains.com/plugin/9564-react-native-console/analytics)
+
+**Platform UI Guidelines:** [Icons list](https://jetbrains.design/intellij/resources/icons_list/), [Icons](https://jetbrains.design/intellij/principles/icons/)
+
+</tldr>
+
+
 ```java
 class Main {
     public static void main(String[] args) {

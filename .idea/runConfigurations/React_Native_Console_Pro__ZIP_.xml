@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="React Native Console Pro (ZIP)" type="StardustRunConfiguration" factoryName="save-as-zip">
+    <option name="folderPath" value="$PROJECT_DIR$" />
+    <option name="instanceName" value="React Native Console Pro" />
+    <method v="2" />
+  </configuration>
+</component>
