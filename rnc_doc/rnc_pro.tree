@@ -15,10 +15,11 @@
     <toc-element topic="free_offer.md"/>
     <toc-element topic="Users.md"/>
     <toc-element topic="Demo.md" hidden="true"/>
-    <toc-element topic="Code_block.md"/>
+    <toc-element topic="Code_block.md" hidden="true"/>
     <!--    <toc-element topic="RNC_What's-New.md"/>-->
 
     <toc-element topic="Know-Issues.md"/>
+    <toc-element topic="LICENSE.md"/>
     <toc-element toc-title="中文文档">
     </toc-element>
     <!--    <toc-element topic="How-to.md">-->
