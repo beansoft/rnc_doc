@@ -1,4 +1,3 @@
-[//]: # (title: Free Offer)
 # Free Offer
 
 If you are a student or open source developer as described here: [https://www.jetbrains.com/store/?#discounts?billing=yearly](https://www.jetbrains.com/store/?#discounts?billing=yearly), please **Sign In with your Jetbrains account(On this page's top right corner)** and go to [https://plugins.jetbrains.com/plugin/9564-react-native-console/pricing](https://plugins.jetbrains.com/plugin/9564-react-native-console/pricing), there should be a discount there like something says for Student(Free).
@@ -13,10 +12,10 @@ A screenshot shows what will be displayed when you meet the offer:
 
 此截图显示了符合条件时的显示内容:
 
-![free_discount](https://plugins.jetbrains.com/docs/marketplace/images/discounts_dropdown.png){thumbnail="true" thumbnail-same-file="true"}
+![Discounts Dropdown](https://plugins.jetbrains.com/docs/marketplace/images/discounts_dropdown.png "Discounts Dropdown")
 
 Finally, please following this document to activate the plugin:
-[https://github.com/beansoft/react-native-console/blob/main/React%20Native%20Console%20How%20to%20Activate.pdf](https://github.com/beansoft/react-native-console/blob/main/React%20Native%20Console%20How%20to%20Activate.pdf)
+[React Native Console How to Activate.pdf](https://github.com/beansoft/react-native-console/blob/main/React%20Native%20Console%20How%20to%20Activate.pdf)
 
 ### Important Note: Pricing and the old Free version
 
