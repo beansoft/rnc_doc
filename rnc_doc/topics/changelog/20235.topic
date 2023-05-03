@@ -3,6 +3,7 @@
         SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       id="20235"
        title="2023.1.0" switcher-label="Language(页面语言)">
     <show-structure depth="0"/>
 
