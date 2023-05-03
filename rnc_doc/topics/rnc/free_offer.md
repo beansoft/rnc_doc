@@ -12,7 +12,7 @@ A screenshot shows what will be displayed when you meet the offer:
 
 此截图显示了符合条件时的显示内容:
 
-![Discounts Dropdown](https://plugins.jetbrains.com/docs/marketplace/images/discounts_dropdown.png "Discounts Dropdown")
+![Discounts Dropdown](discounts_dropdown.png "Discounts Dropdown")
 
 Finally, please following this document to activate the plugin:
 [React Native Console How to Activate.pdf](https://github.com/beansoft/react-native-console/blob/main/React%20Native%20Console%20How%20to%20Activate.pdf)
