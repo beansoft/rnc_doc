@@ -41,7 +41,7 @@ These licenses are bought by legal entities, including companies, for-profit and
 ## Free 30-Day Trial
 
 Test %product% without risk before buying a license:
-:
+
 1. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <control>Marketplace</control> tab.
 3. On the <control>Marketplace</control> tab, search for `%product%`.
@@ -49,7 +49,8 @@ Test %product% without risk before buying a license:
 5. Click <control>OK</control> to apply the changes and restart your IDE if prompted.
     <note> You will need to restart the IDE every time you install a paid plugin. If you skip this step, the plugin will be disabled.</note>
 6.  Activate the trial-period by select the `%product%` plugin in the list and then clicking <control>Start trial</control> option on the license activation window that pops up.
-    ![](start_trial.png)
+    
+![](start_trial.png)
 
 ## Payment
 
