@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="2023.1.0" switcher-label="Language(页面语言)">
+    <show-structure depth="0"/>
+
+    <web-file-name>whats-new.html</web-file-name>
+    <!-- show-structure depth="0" 会彻底禁用侧面导航栏 -->
+    <!--    <show-structure depth="0"/>-->
+    <!--    <show-structure for="procedure,chapter"/>-->
+
+    <chapter title="🆕New" switcher-key="English">
+        <list style="bullet">
+            <li>
+                Customize RN Console Toolbar by clicking button <img src="toolbar.svg" alt="Customize RN Console Toolbar" />.
+            </li>
+            <li><p>
+                Add Action to RN Console Toolbar by clicking button <img src="addToolbar.svg" alt="Add Action to RN Console Toolbar" />.
+            </p>
+                <note>You can add any IDE actions by unselect the filter button <img src="filter.svg" alt="Filter button" /> in the dialog. </note>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="🆕新功能" switcher-key="简体中文">
+        <list style="bullet">
+            <li>
+                点击按钮 <img src="toolbar.svg" alt="Customize RN Console Toolbar" /> 来自定义RN助手工具栏.
+            </li>
+            <li><p>
+                点击按钮 <img src="addToolbar.svg" alt="Add Action to RN Console Toolbar" /> 向RN助手工具栏添加操作.
+            </p>
+                <note>取消选择对话框中的筛选按钮 <img src="filter.svg" alt="Filter button" /> 可以添加任何IDE中的操作。 </note>
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="🪲Fixed" switcher-key="English">
+        <list style="bullet">
+            <li>
+                Internal method `JobLauncher.getInstance()` is invoked in `JavaScriptTelescope.usagesHint(...)`. This method is marked with `@ApiStatus.Internal` annotation or `@IntellijInternalApi` annotation and indicates that the method is not supposed to be used in client code.
+            </li>
+
+        </list>
+    </chapter>
+
+    <chapter title="🪲修复" switcher-key="简体中文">
+        <list style="bullet">
+            <li>
+                删除内部方法使用：Internal method `JobLauncher.getInstance()` is invoked in `JavaScriptTelescope.usagesHint(...)`. This method is marked with `@ApiStatus.Internal` annotation or `@IntellijInternalApi` annotation and indicates that the method is not supposed to be used in client code.
+            </li>
+
+        </list>
+    </chapter>
+
+
+    <chapter title="✅Improved" switcher-key="English">
+        <list style="bullet">
+            <li>
+                Some icons are redesigned for the new UI.
+            </li>
+        </list>
+    </chapter>
+
+    <chapter title="✅完善" switcher-key="简体中文">
+        <list style="bullet">
+            <li>
+               部分图标针对新UI进行了重新设计。
+            </li>
+        </list>
+    </chapter>
+
+</topic>
+
