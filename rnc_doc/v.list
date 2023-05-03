@@ -4,4 +4,8 @@
     <var name="sample"
          value="Sometext"
          type="string"/>
+    <var name="product" value="React Native Console" type="string"/>
+    <var name="product_cn" value="RN助手" type="string"/>
+    <var name="plugin_versions_page" value="https://plugins.jetbrains.com/plugin/9564-react-native-console/versions" type="string"/>
+
 </vars>

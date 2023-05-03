@@ -1,4 +1,4 @@
-[//]: # (title: Install React Native Console)
+# Installation
 
 ## Prerequisites
 
@@ -148,39 +148,43 @@ Only Node.js is required, bring up a terminal and enter following command to che
 
 
 
-## Install the RN Console plugin in IDE
+## Install the `%product%` plugin in IDE
 
-1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="ShowSettings" /> , select <ui-path>Plugins</ui-path>.
-2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Marketplace</ui-path> tab.
-3. In the dialog that opens, search for **RN Console**.
-4. Click <control>Install</control>.
-5. Click <control>OK</control>  in the <control>Settings</control>  dialog to apply the changes, and restart <control>IDE</control>  if prompted.
+
+1. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
+2. In the <ui-path>Plugins</ui-path> dialog, switch to the <control>Marketplace</control> tab.
+3. On the <control>Marketplace</control> tab, search for `%product%`.
+4. Select the `%product%` plugin and click <control>Install</control>.
+5. Click <control>OK</control> to apply the changes and restart your IDE if prompted.
 
 ![](rnconsole-install.png){thumbnail="true" thumbnail-same-file="true" width="1942" height="606"}
 
-## Download and install plugin from disk
+## Download and install `%product%` plugin from disk
 
-1. Go to the plugin page at [https://plugins.jetbrains.com/plugin/9564-react-native-console/versions](https://plugins.jetbrains.com/plugin/9564-react-native-console/versions).
-2. Click <control>Get</control> and download a ZIP archive.
-3. Open <path> Settings/Preferences | Plugins </path>.
-4. Click ![Settings](gearPlain.svg)button in the top-right corner and then select <control>Install Plugin from Disk…</control>.
-5. Select the archive and click <control>OK</control>.
+1. Go to the plugin versions page at [%plugin_versions_page%](%plugin_versions_page%).
+2. Click <control>Download</control> and get a ZIP archive.
+3. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings.
+4. Select <ui-path>Plugins</ui-path>, click ![Settings](settings.svg) and then select  ![](plugin.svg) <control> Install Plugin from Disk…</control>.
+5. Select the plugin archive file and click <control>OK</control>.
+6. Click <control>OK</control> to apply the changes and restart your IDE if prompted.
 
-## Update an installed RN Console plugin
 
-1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="ShowSettings" /> , select <ui-path>Plugins</ui-path>.
-2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Updates</ui-path> tab.
-3. Check if the RN Console plugin requires an update.
+## Update an installed `%product%` plugin
+
+1. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
+2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Installed</ui-path> tab.
+3. Check if the `%product%` plugin requires an update.
 4. Click <control>Update</control>.
 5. Click <control>OK</control> in the <control>Settings</control>  dialog to apply the changes, and restart <control>IDE</control>  if prompted.
 
-## Uninstall the RN Console plugin
+## Uninstall the `%product%` plugin
 
-> You can always disable the RN Console plugin by clearing the checkbox to the right of its name.
+> You can always disable the `%product%` plugin by clearing the checkbox to the right of its name.
+>
+{style="note"}
 
-1. In the <ui-path>Settings/Preferences</ui-path> dialog <shortcut key="ShowSettings" /> , select <ui-path>Plugins</ui-path>.
+1. Open your IDE and press <shortcut key="ShowSettings" /> to open the IDE settings and select <ui-path>Plugins</ui-path>.
 2. In the <ui-path>Plugins</ui-path> dialog, switch to the <ui-path>Installed</ui-path> tab.
-3. On the <ui-path>Installed</ui-path> tab, search for **RN Console**.
-4. Right-click the **RN Console** plugin and select <control>Uninstall</control>.
-5. Click <control>OK</control> in the <control>Settings</control>  dialog to apply the changes, and restart <control>IDE</control>  if prompted.
-
+3. On the <ui-path>Installed</ui-path> tab, search for `%product%`.
+4. Right-click the `%product%` plugin and select <control>Uninstall</control>.
+5. Click <control>OK</control> to apply the changes and restart your IDE if prompted.
