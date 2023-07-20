@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       id="20237"
+       title="2023.2.1" switcher-label="Language(页面语言)">
+<!--    topic 必须添加 id 否则会报错 Topic ID doesn't match the containing file name
+In 20235.topic:4:1 -->
+    <show-structure depth="0"/>
+
+    <web-file-name>whats-new.html</web-file-name>
+    <!-- show-structure depth="0" 会彻底禁用侧面导航栏 -->
+    <!--    <show-structure depth="0"/>-->
+    <!--    <show-structure for="procedure,chapter"/>-->
+
+
+
+    <chapter title="🪲Fixed" switcher-key="English">
+        <list type="bullet">
+            <li>
+                Bug <a href="https://github.com/beansoft/react-native-console/issues/76">#76</a>: NPE error on IDE 2023.2 beta.
+            </li>
+
+        </list>
+    </chapter>
+
+    <chapter title="🪲修复" switcher-key="简体中文">
+        <list type="bullet">
+            <li>
+                Bug <a href="https://github.com/beansoft/react-native-console/issues/76">#76</a>: IDE 2023.2 beta 上的空指针错误.
+            </li>
+
+        </list>
+    </chapter>
+
+
+</topic>
+

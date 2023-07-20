@@ -5,9 +5,10 @@
        xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
        id="20235"
        title="2023.1.0" switcher-label="Language(页面语言)">
+<!--    topic 必须添加 id 否则会报错 Topic ID doesn't match the containing file name
+In 20235.topic:4:1 -->
     <show-structure depth="0"/>
 
-    <web-file-name>whats-new.html</web-file-name>
     <!-- show-structure depth="0" 会彻底禁用侧面导航栏 -->
     <!--    <show-structure depth="0"/>-->
     <!--    <show-structure for="procedure,chapter"/>-->

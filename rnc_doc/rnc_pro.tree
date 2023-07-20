@@ -17,8 +17,10 @@
     <toc-element topic="Demo.md" hidden="true"/>
     <toc-element topic="Code_block.md" hidden="true"/>
     <toc-element toc-title="What's new">
+        <toc-element topic="20237.topic"/>
         <toc-element topic="20235.topic"/>
-        <toc-element topic="20234.md" accepts-web-file-names="whats-new-last-update.html"/>
+        <toc-element topic="20234.md" accepts-web-file-names="whats-new-last-update.html">
+        </toc-element>
     </toc-element>
 
     <toc-element topic="Know-Issues.md"/>
